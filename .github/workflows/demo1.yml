@@ -4,7 +4,7 @@ on:
     types:
       - opened
       # - edited
-  workflow_dispatch: 
+  workflow_dispatch: # test 
   push:
     branches:
       - main
